@@ -3,12 +3,9 @@
   text: #E3F2FD
   link: #81C784
 } */
-header {
-  background: #0097A7;
-  text-align: center;
+body {
+  font-size: 14px;
 }
-footer {
-  background: #0097A7;
-  color: #E3F2FD;
-  text-align: center;
+h1 {
+  font-size:25px;
 }
